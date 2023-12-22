@@ -26,17 +26,17 @@
     </a>
     <a href="https://github.com/JesperBodin-light-mode-only">
       <img
-          src="https://github-readme-stats.vercel.app/api?username=jLereback&show_icons=true&theme=vue#gh-light-mode-only"
-          width="350" alt="Julia Lerebäck Corell's GitHub Stats">
+          src="https://github-readme-stats.vercel.app/api?username=JesperBodin&show_icons=true&theme=vue#gh-light-mode-only"
+          width="350" alt="Jesper Bodins's GitHub Stats">
     </a>
   </div>
   <div align='center'>
     <a href="https://github.com/JesperBodin-dark-mode-only">
       <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jLereback&theme=moonlight#gh-dark-mode-only"
-          width="510" alt="Julia Lerebäck Corell's GitHub Contributions">
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesperBodin&theme=moonlight#gh-dark-mode-only"
+          width="510" alt="Jesper Bodins's GitHub Contributions">
     </a>
-    <a href="https://github.com/jLereback#gh-light-mode-only">
+    <a href="https://github.com/JesperBodin-light-mode-only">
       <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesperBodin&theme=vue#gh-light-mode-only"
           width="510" alt="Jesper Bodin's GitHub Contributions">
