@@ -8,7 +8,7 @@
     <a href='https://www.iths.se/'>IT-Högskolan</a>
   </div>
   <div align='center'>
-    <a href="[https://www.linkedin.com/in/julia-lereb%C3%A4ck-corell/](https://www.linkedin.com/in/jesper-bodin-220931238/)">
+    <a href="[https://www.linkedin.com/in/jesper-bodin-220931238/](https://www.linkedin.com/in/jesper-bodin-220931238/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="Jesper Bodin's LinkedIn profile"/>
     </a>
@@ -24,11 +24,11 @@
           src="https://github-readme-stats.vercel.app/api?username=JesperBodin&show_icons=true&title_color=ff757f&text_color=f8f8f8&icon_color=599dff&bg_color=222436&hide_border=true#gh-dark-mode-only"
           width="350" alt="Jesper Bodin's GitHub Stats">
     </a>
-    <a href="https://github.com/JesperBodin-light-mode-only">
+<!--     <a href="https://github.com/JesperBodin-light-mode-only">
       <img
           src="https://github-readme-stats.vercel.app/api?username=JesperBodin&show_icons=true&theme=vue#gh-light-mode-only"
           width="350" alt="Jesper Bodins's GitHub Stats">
-    </a>
+    </a> -->
   </div>
   <div align='center'>
     <a href="https://github.com/JesperBodin-dark-mode-only">
@@ -36,11 +36,11 @@
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesperBodin&theme=moonlight#gh-dark-mode-only"
           width="510" alt="Jesper Bodins's GitHub Contributions">
     </a>
-    <a href="https://github.com/JesperBodin-light-mode-only">
+<!--     <a href="https://github.com/JesperBodin-light-mode-only">
       <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesperBodin&theme=vue#gh-light-mode-only"
           width="510" alt="Jesper Bodin's GitHub Contributions">
-    </a>
+    </a> -->
   </div>
 </section>
 <section>
