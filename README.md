@@ -8,7 +8,7 @@
     <a href='https://www.iths.se/'>IT-Högskolan</a>
   </div>
   <div align='center'>
-    <a href="https://www.linkedin.com/in/jesper-bodin-220931238/">
+    <a href="https://linkedin.com/in/jesper-bodin-220931238">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="Jesper Bodin's LinkedIn profile"/>
     </a>
