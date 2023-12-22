@@ -56,6 +56,10 @@
       <img src="https://skillicons.dev/icons?i=java&theme=dark"
            width="50" height="50" alt="Java Official website">
     </a>
+        <a href="https://vuejs.org/">
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark"
+           width="50" height="50" alt="Vue Official website">
+    </a>
     <a href="https://maven.apache.org/">
       <img src="https://skillicons.dev/icons?i=maven&theme=dark"
            width="50" height="50" alt="Maven Official website">
@@ -76,14 +80,14 @@
       <img src="https://skillicons.dev/icons?i=docker"
            width="50" height="50" border="#60be86" alt="Docker Official website">
     </a>
-    <a href="https://www.python.org/">
+<!--     <a href="https://www.python.org/">
       <img src="https://skillicons.dev/icons?i=python&theme=dark"
            width="50" height="50" alt="Python Official website">
-    </a>
-    <a href="https://www.linux.org/">
+    </a> -->
+<!--     <a href="https://www.linux.org/">
       <img src="https://skillicons.dev/icons?i=linux&theme=dark"
            width="50" height="50" alt="Linux Official website">
-    </a>
+    </a> -->
     <a href="https://github.com/features">
       <img src="https://skillicons.dev/icons?i=github&theme=dark"
            width="50" height="50" alt="GitHub features">
